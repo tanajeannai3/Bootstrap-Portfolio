@@ -1,20 +1,51 @@
+body{
+    background: url(https://data.whicdn.com/images/269141344/superthumb.jpg?t=1481026507);
+}
 #bio-image1{
     width: 400px;
     height: 400px;
 }
+#bio-image1:hover{
+    padding:1px;
+    border:1px solid #021a40;
+}
 #bio-image2{
     width: 400px;
     height: 400px;
-}#bio-image3{
+}
+#bio-image2:hover{
+    padding:1px;
+    border:1px solid #021a40;
+}
+#bio-image3{
     width: 400px;
     height: 400px;
-}#bio-image4{
+}
+#bio-image3:hover{
+    padding:1px;
+    border:1px solid #021a40;
+}
+#bio-image4{
     width: 400px;
     height: 400px;
-}#bio-image5{
+}
+#bio-image4:hover{
+    padding:1px;
+    border:1px solid #021a40;
+}
+#bio-image5{
     width: 400px;
     height: 400px;
-}#bio-image6{
+}
+#bio-image5:hover{
+    padding:1px;
+    border:1px solid #021a40;
+}
+#bio-image6{
     width: 400px;
     height: 400px;
+}
+#bio-image6:hover{
+    padding:1px;
+    border:1px solid #021a40;
 }
