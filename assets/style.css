@@ -1,5 +1,5 @@
 body{
-    background: url(https://data.whicdn.com/images/269141344/superthumb.jpg?t=1481026507);
+    background-color:#5188e0;
 }
 #bio-image1{
     width: 400px;
@@ -48,4 +48,11 @@ body{
 #bio-image6:hover{
     padding:1px;
     border:1px solid #021a40;
+}
+.container{
+    background-color: white;
+    padding-left: 20px;
+}
+h2{
+    color: white;
 }
