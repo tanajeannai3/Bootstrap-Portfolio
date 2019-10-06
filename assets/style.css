@@ -4,6 +4,7 @@ body{
 #bio-image1{
     width: 400px;
     height: 400px;
+    padding: 10px;
 }
 #bio-image1:hover{
     padding:1px;
@@ -12,6 +13,7 @@ body{
 #bio-image2{
     width: 400px;
     height: 400px;
+    padding: 10px;
 }
 #bio-image2:hover{
     padding:1px;
@@ -20,6 +22,7 @@ body{
 #bio-image3{
     width: 400px;
     height: 400px;
+    padding: 10px;
 }
 #bio-image3:hover{
     padding:1px;
@@ -28,6 +31,7 @@ body{
 #bio-image4{
     width: 400px;
     height: 400px;
+    padding: 10px;
 }
 #bio-image4:hover{
     padding:1px;
@@ -36,6 +40,7 @@ body{
 #bio-image5{
     width: 400px;
     height: 400px;
+    padding: 10px;
 }
 #bio-image5:hover{
     padding:1px;
@@ -44,6 +49,7 @@ body{
 #bio-image6{
     width: 400px;
     height: 400px;
+    padding: 10px;
 }
 #bio-image6:hover{
     padding:1px;
@@ -52,6 +58,7 @@ body{
 .container{
     background-color: white;
     padding-left: 20px;
+    padding-bottom: 80px;
 }
 h2{
     color: white;
